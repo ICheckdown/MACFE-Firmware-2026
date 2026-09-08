@@ -5,7 +5,7 @@
 ##Compiling
 **Linux / macOS:**
 ```bash
-g++ hello.cpp -o hello
+g++ main.cpp -o main
 ```
 
 ##Running the Program
