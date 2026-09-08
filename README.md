@@ -2,13 +2,13 @@
 
 "Hello World" C++ program 
 
-##Compiling
+## Compiling
 **Linux / macOS:**
 ```bash
 g++ main.cpp -o main
 ```
 
-##Running the Program
+## Running the Program
 **Linux / macOS:**
 ```bash
 ./main
